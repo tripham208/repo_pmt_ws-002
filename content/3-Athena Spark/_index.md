@@ -169,9 +169,9 @@ In this lab we will show how to explore Athena runtime session history and it's 
 
 - Click on one of the workgroup you crated for Spark where **Analytics engine** says **PySpark engine version 3**, it will show following Workgroup details which includes list of Notebooks and Sessions associated with this workgroup.
 
-   ![Image](/repo_pmt_ws-002/images/3/326.png?featherlight=false&width=90pc)
+   ![Image](/repo_pmt_ws-002/images/3/327.png?featherlight=false&width=90pc)
 
 
 - Click on **Session** tab and filter out sessions based on their status like **Active, Idle, Terminated** etc. You can further explore the session and calculation details by clicking on one of the session from the list.
 
-   ![Image](/repo_pmt_ws-002/images/3/327.png?featherlight=false&width=90pc)
+   ![Image](/repo_pmt_ws-002/images/3/328.png?featherlight=false&width=90pc)

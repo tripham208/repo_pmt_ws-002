@@ -167,9 +167,9 @@ Trong phòng thực hành này, chúng tôi sẽ chỉ ra cách khám phá lịc
 
 - Nhấp vào một trong các workgroup bạn tạo cho Spark **Analytics engine** **PySpark engine version 3**, Nó sẽ hiển thị như sau: chi tiết Workgroup bao gồm danh sách Notebooks và Sessions liên quan đến workgroup.
 
-   ![Image](/repo_pmt_ws-002/images/3/326.png?featherlight=false&width=90pc)
+   ![Image](/repo_pmt_ws-002/images/3/327.png?featherlight=false&width=90pc)
 
 
 - Nhấp vào **Session**  và lọc ra các phiên dựa trên trạng thái của chúng như **Active, Idle, Terminated** etc. Bạn có thể khám phá thêm phiên và chi tiết tính toán bằng cách nhấp vào một trong các phiên từ danh sách.
 
-   ![Image](/repo_pmt_ws-002/images/3/327.png?featherlight=false&width=90pc)
+   ![Image](/repo_pmt_ws-002/images/3/328.png?featherlight=false&width=90pc)

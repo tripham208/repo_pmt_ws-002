@@ -3,7 +3,7 @@ title : "RDS Connector"
 date :  "`r Sys.Date()`"
 weight : 1
 chapter : false
-pre : " <b> 2.2 </b> "
+pre : " <b> 4.1 </b> "
 ---
 
 ## RDS Connector
@@ -47,8 +47,8 @@ Athena PostgreSQL Connector có thể được cài đặt như được nêu d�
 3. Truy vấn
    - Kiểm tra kết nối nguồn dữ liệu
 
-   ![Image](/repo_pmt_ws-002/images/4/509.png?featherlight=false&width=90pc)
+   ![Image](/repo_pmt_ws-002/images/4/409.png?featherlight=false&width=90pc)
    - Truy vấn RDS trong Athena
    
-   ![Image](/repo_pmt_ws-002/images/4/510.png?featherlight=false&width=90pc)
+   ![Image](/repo_pmt_ws-002/images/4/410.png?featherlight=false&width=90pc)
 
