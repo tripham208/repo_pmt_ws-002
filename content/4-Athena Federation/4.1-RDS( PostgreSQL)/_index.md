@@ -47,8 +47,8 @@ Athena PostgreSQL Connector can be installed as outlined below.
 3. Query
    - Check connection of data source
 
-   ![Image](/repo_pmt_ws-002/images/4/509.png?featherlight=false&width=90pc)
+   ![Image](/repo_pmt_ws-002/images/4/409.png?featherlight=false&width=90pc)
    - Query RDS in Athena
    
-   ![Image](/repo_pmt_ws-002/images/4/510.png?featherlight=false&width=90pc)
+   ![Image](/repo_pmt_ws-002/images/4/410.png?featherlight=false&width=90pc)
 
